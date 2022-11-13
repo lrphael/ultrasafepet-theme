@@ -124,27 +124,13 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "blocks": {
-          "announcement-bar-0": {
-            "type": "announcement",
-            "settings": {
-              "text": "Welcome to our store",
-              "text_alignment": "center",
-              "color_scheme": "background-2",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "announcement-bar-0"
-        ],
         "settings": {
         }
       },
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "logo": "{{ shop.brand.logo }}",
           "logo_width": 70,
           "logo_position": "top-center",
@@ -161,13 +147,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "linklist": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Menu",
-              "menu": "footer"
-            }
-          },
           "text-0": {
             "type": "text",
             "settings": {
@@ -191,13 +170,12 @@
           }
         },
         "block_order": [
-          "linklist",
           "text-0",
           "image",
           "text-1"
         ],
         "settings": {
-          "color_scheme": "background-2",
+          "color_scheme": "inverse",
           "newsletter_enable": false,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
@@ -223,7 +201,10 @@
           "color_scheme": "background-1"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {

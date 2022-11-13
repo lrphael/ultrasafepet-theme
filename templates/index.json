@@ -58,10 +58,84 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "40d1b049-bff4-4235-87b8-f857b51fa8d0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16893937877309__40d1b049-bff4-4235-87b8-f857b51fa8d0-1668378759713281ff-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your friend is at risk!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16893937877309__40d1b049-bff4-4235-87b8-f857b51fa8d0-1668378759713281ff-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>These little hosts can really ruin your pet's health and tranquility. They can cause <strong>itching <\/strong>(mild and severe), <strong>lack of appetit<\/strong>e and <strong>infections<\/strong>!<\/p><p>Fleas are extremely agile and jump great distances. Plus their eggs can even be housed in <strong>human clothing<\/strong>!<\/p><p>While ticks, in addition to bringing many infections, can produce <strong>THOUSANDS <\/strong>of eggs at once<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16893937877309__40d1b049-bff4-4235-87b8-f857b51fa8d0-1668378759713281ff-0",
+        "template--16893937877309__40d1b049-bff4-4235-87b8-f857b51fa8d0-1668378759713281ff-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/and_more.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "847b0f08-ea8c-49d1-ab39-43066ff3aadc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16893937877309__847b0f08-ea8c-49d1-ab39-43066ff3aadc-1668378759713281ff-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your family is at risk!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16893937877309__847b0f08-ea8c-49d1-ab39-43066ff3aadc-1668378759713281ff-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please never forget that fleas and ticks among other invaders <strong>can <\/strong>also attack <strong>humans<\/strong>.<\/p><p>It's easy to remember some cases where they really caused big problems in society, like the <strong>Bubonic Plague<\/strong>!!!<\/p><p>Look at the picture and please understand how to properly remove a tick from your skin.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16893937877309__847b0f08-ea8c-49d1-ab39-43066ff3aadc-1668378759713281ff-0",
+        "template--16893937877309__847b0f08-ea8c-49d1-ab39-43066ff3aadc-1668378759713281ff-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/a_volta_dos_bichos_3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image-with-text",
-    "f4fe735c-fc24-4807-bc92-5b580402af78"
+    "f4fe735c-fc24-4807-bc92-5b580402af78",
+    "40d1b049-bff4-4235-87b8-f857b51fa8d0",
+    "847b0f08-ea8c-49d1-ab39-43066ff3aadc"
   ]
 }
