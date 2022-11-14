@@ -117,6 +117,7 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
+    "favicon": "shopify:\/\/shop_images\/Ultra_Safe_Pet.png",
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
@@ -146,34 +147,6 @@
       },
       "footer": {
         "type": "footer",
-        "blocks": {
-          "text-0": {
-            "type": "text",
-            "settings": {
-              "heading": "Our Store",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-            }
-          },
-          "image": {
-            "type": "image",
-            "settings": {
-              "image_width": 200,
-              "alignment": "center"
-            }
-          },
-          "text-1": {
-            "type": "text",
-            "settings": {
-              "heading": "Our Promise",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "text-0",
-          "image",
-          "text-1"
-        ],
         "settings": {
           "color_scheme": "inverse",
           "newsletter_enable": false,
