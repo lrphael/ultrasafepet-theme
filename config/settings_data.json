@@ -157,7 +157,6 @@
           "image": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Ultra_Safe_Pet.png",
               "image_width": 200,
               "alignment": "center"
             }
