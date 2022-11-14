@@ -130,12 +130,300 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2ebe47eb-969d-4fab-9223-ca4df2f2836b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16893937877309__2ebe47eb-969d-4fab-9223-ca4df2f2836b-166844817131adc03a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>It's past time for you to protect your friend and family from this!<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16893937877309__2ebe47eb-969d-4fab-9223-ca4df2f2836b-166844817131adc03a-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f1aab89f-0866-49a9-a9bc-6379a720fa45": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16893937877309__f1aab89f-0866-49a9-a9bc-6379a720fa45-166844814516d7d79b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "This is your opportunity!",
+            "heading_size": "h1"
+          }
+        },
+        "template--16893937877309__f1aab89f-0866-49a9-a9bc-6379a720fa45-166844814516d7d79b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Don't worry, you are not alone and we can help you!<\/p><p><br\/>Here you will find our intelligente ultrasonic repellent. Exactly, <strong>ULTRASONIC<\/strong>.<br\/>No need to pass products on your pet, without any kind of inconvenience. You'll just have to charge the battery via USB and you're ready to go out and walk! <\/p><p><\/p><p>Our ultrasonic repeller generates intelligent sound waves that are not tolerated by mosquitoes and other insects. Making them stay away.<\/p><p><br\/><strong>No fear, no worries. Protected!<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16893937877309__f1aab89f-0866-49a9-a9bc-6379a720fa45-166844814516d7d79b-0",
+        "template--16893937877309__f1aab89f-0866-49a9-a9bc-6379a720fa45-166844814516d7d79b-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Design_sem_nome.gif",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a46aa14a-f299-4378-bfcc-03ba7bb19da3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16893937877309__a46aa14a-f299-4378-bfcc-03ba7bb19da3-166844814532025da8-0": {
+          "type": "column",
+          "settings": {
+            "title": "No noise!",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16893937877309__a46aa14a-f299-4378-bfcc-03ba7bb19da3-166844814532025da8-1": {
+          "type": "column",
+          "settings": {
+            "title": "No Medicine!",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "19dbc19b-9dc7-4866-8a97-13aa5b3c4672": {
+          "type": "column",
+          "settings": {
+            "title": "Intelligent!",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c5ce3efd-480d-4c94-836d-d817cb9a4e3c": {
+          "type": "column",
+          "settings": {
+            "title": "Safety!",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16893937877309__a46aa14a-f299-4378-bfcc-03ba7bb19da3-166844814532025da8-0",
+        "template--16893937877309__a46aa14a-f299-4378-bfcc-03ba7bb19da3-166844814532025da8-1",
+        "19dbc19b-9dc7-4866-8a97-13aa5b3c4672",
+        "c5ce3efd-480d-4c94-836d-d817cb9a4e3c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1014c4a4-96f8-4c5d-b186-f9a07567666d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16893937877309__1014c4a4-96f8-4c5d-b186-f9a07567666d-166844814516d7d79b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Will you keep taking risks?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16893937877309__1014c4a4-96f8-4c5d-b186-f9a07567666d-166844814516d7d79b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our repellent is a healthy choice.<br\/>It is based on physical principles, emitting different types of sounds that are not tolerated by the brains of mosquitoes and insects. And for that reason they will always stay away!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16893937877309__1014c4a4-96f8-4c5d-b186-f9a07567666d-166844814516d7d79b-0",
+        "template--16893937877309__1014c4a4-96f8-4c5d-b186-f9a07567666d-166844814516d7d79b-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Stereo_surround.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "152ae0e6-1847-4d9f-8f01-3314ebdaea5c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16893937877309__152ae0e6-1847-4d9f-8f01-3314ebdaea5c-166844814516d7d79b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Can humans use this?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16893937877309__152ae0e6-1847-4d9f-8f01-3314ebdaea5c-166844814516d7d79b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Of course yes! Even for pregnant women.<br\/>You can use it when touring, camping, fishing, mountaineering or even sleeping.<br\/>It is a product that guarantees to be safe, and that the generated intelligent waves only influence these insects.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16893937877309__152ae0e6-1847-4d9f-8f01-3314ebdaea5c-166844814516d7d79b-0",
+        "template--16893937877309__152ae0e6-1847-4d9f-8f01-3314ebdaea5c-166844814516d7d79b-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1d266041-0298-4e92-9909-4782ac26b8d2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16893937877309__1d266041-0298-4e92-9909-4782ac26b8d2-166844817131adc03a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>No more waiting to protect your pets. Buy your Smart Repellent now!<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16893937877309__1d266041-0298-4e92-9909-4782ac26b8d2-166844817131adc03a-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6146c614-f5bd-43d3-b5a3-10e6b828b94a": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-0",
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-1",
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-2",
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-3",
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-4",
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-5",
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-6"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image-with-text",
     "f4fe735c-fc24-4807-bc92-5b580402af78",
     "40d1b049-bff4-4235-87b8-f857b51fa8d0",
-    "847b0f08-ea8c-49d1-ab39-43066ff3aadc"
+    "847b0f08-ea8c-49d1-ab39-43066ff3aadc",
+    "2ebe47eb-969d-4fab-9223-ca4df2f2836b",
+    "f1aab89f-0866-49a9-a9bc-6379a720fa45",
+    "a46aa14a-f299-4378-bfcc-03ba7bb19da3",
+    "1014c4a4-96f8-4c5d-b186-f9a07567666d",
+    "152ae0e6-1847-4d9f-8f01-3314ebdaea5c",
+    "1d266041-0298-4e92-9909-4782ac26b8d2",
+    "6146c614-f5bd-43d3-b5a3-10e6b828b94a"
   ]
 }
