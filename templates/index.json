@@ -385,12 +385,6 @@
           "settings": {
             "show_dynamic_checkout": true
           }
-        },
-        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-6": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -399,8 +393,7 @@
         "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-2",
         "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-3",
         "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-4",
-        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-5",
-        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-6"
+        "template--16893937877309__6146c614-f5bd-43d3-b5a3-10e6b828b94a-16684481712933e064-5"
       ],
       "settings": {
         "product": "usb-portable-insect-repeller-outdoor-mosquito-repeller-ultrasonic-electronic-cockroach-control-ultrasonic-pet-tick",
