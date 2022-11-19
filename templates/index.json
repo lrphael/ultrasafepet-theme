@@ -42,7 +42,7 @@
         "template--16893937877309__f4fe735c-fc24-4807-bc92-5b580402af78-1668378859e01eaac5-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>Don't let your pets suffer, don't let these invaders enter your house anymore!<\/strong><\/p>",
+            "heading": "<p>Don't let your pets suffer anymore, don't let these invaders enter your home!<\/p>",
             "heading_size": "h2"
           }
         }
@@ -65,15 +65,15 @@
         "template--16893937877309__40d1b049-bff4-4235-87b8-f857b51fa8d0-1668378759713281ff-0": {
           "type": "heading",
           "settings": {
-            "heading": "Your friend is at risk!",
+            "heading": "Your friend is in danger!",
             "heading_size": "h1"
           }
         },
         "template--16893937877309__40d1b049-bff4-4235-87b8-f857b51fa8d0-1668378759713281ff-1": {
           "type": "text",
           "settings": {
-            "text": "<p>These little hosts can really ruin your pet's health and tranquility. They can cause <strong>itching <\/strong>(mild and severe), <strong>lack of appetit<\/strong>e and <strong>infections<\/strong>!<\/p><p>Fleas are extremely agile and jump great distances. Plus their eggs can even be housed in <strong>human clothing<\/strong>!<\/p><p>While ticks, in addition to bringing many infections, can produce <strong>THOUSANDS <\/strong>of eggs at once<\/p>",
-            "text_style": "body"
+            "text": "<p><strong>Fleas, mosquitoes, ticks, among others, can really harm your pet's health and tranquility and yours. Causing itching (even causing wounds), loss of appetite and infections.<br\/><br\/>Fleas are extremely agile and proliferate quickly not only on your pet, but even leaving eggs on your clothes and carpets!<br\/><br\/>Ticks can cause many infections, they can even attack humans. And during their lifetime, they produce THOUSANDS of eggs.<br\/><br\/>Mosquitoes are transmitters of many diseases to your pets, mainly fatal diseases. For that reason, they are the main insects that we need to keep them away from our pets!<\/strong><\/p>",
+            "text_style": "subtitle"
           }
         }
       },
@@ -84,10 +84,10 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/and_more.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
@@ -101,15 +101,15 @@
         "template--16893937877309__847b0f08-ea8c-49d1-ab39-43066ff3aadc-1668378759713281ff-0": {
           "type": "heading",
           "settings": {
-            "heading": "Your family is at risk!",
+            "heading": "You are also in danger!",
             "heading_size": "h1"
           }
         },
         "template--16893937877309__847b0f08-ea8c-49d1-ab39-43066ff3aadc-1668378759713281ff-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Please never forget that fleas and ticks among other invaders <strong>can <\/strong>also attack <strong>humans<\/strong>.<\/p><p>It's easy to remember some cases where they really caused big problems in society, like the <strong>Bubonic Plague<\/strong>!!!<\/p><p>Look at the picture and please understand how to properly remove a tick from your skin.<\/p>",
-            "text_style": "body"
+            "text": "<p><strong>Please, I will say again that fleas and ticks can really be harmful to humans.<br\/><br\/>Just a few decades ago, one of the viruses that most harmed society, causing several deaths, was transmitted by the flea that came from rats.<br\/><br\/>While mosquitoes, even today cause the death of thousands of animals and people around the world every month, being the most harmful insect today.<\/strong><\/p>",
+            "text_style": "subtitle"
           }
         }
       },
@@ -118,14 +118,14 @@
         "template--16893937877309__847b0f08-ea8c-49d1-ab39-43066ff3aadc-1668378759713281ff-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/a_volta_dos_bichos_3.png",
+        "image": "shopify:\/\/shop_images\/ilustracion-concepto-picadura-mosquito_114360-9270.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -137,7 +137,7 @@
         "template--16893937877309__2ebe47eb-969d-4fab-9223-ca4df2f2836b-166844817131adc03a-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>It's past time for you to protect your friend and family from this!<\/p>",
+            "heading": "<p><strong>It's past time for you to protect those who are also part of your family!<\/strong><\/p>",
             "heading_size": "h2"
           }
         }
@@ -167,7 +167,7 @@
         "template--16893937877309__f1aab89f-0866-49a9-a9bc-6379a720fa45-166844814516d7d79b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Don't worry, you are not alone and we can help you!<\/p><p><br\/>Here you will find our intelligente ultrasonic repellent. Exactly, <strong>ULTRASONIC<\/strong>.<br\/>No need to pass products on your pet, without any kind of inconvenience. You'll just have to charge the battery via USB and you're ready to go out and walk! <\/p><p><\/p><p>Our ultrasonic repeller generates intelligent sound waves that are not tolerated by mosquitoes and other insects. Making them stay away.<\/p><p><br\/><strong>No fear, no worries. Protected!<\/strong><\/p>",
+            "text": "<p><strong>Don't worry. You are not alone and we can help you.<br\/>Here below you will find a product that is already helping TENS of thousands of people around the world. A smart ultrasonic repeller. Exactly, ULTRASONIC.<br\/>With no need to spray your pet with chemicals or medicate him, you simply need to charge the repellent via USB, clip it to your pet's collar, turn it on, and you're ready to go to walk.<br\/>Our ultrasonic repellent produces ultrasonic waves at a frequency where only insects such as mosquitoes, fleas, ticks and other invaders could not approach due to the nuisance generated.<\/strong><\/p>",
             "text_style": "body"
           }
         }
@@ -180,9 +180,9 @@
         "image": "shopify:\/\/shop_images\/Design_sem_nome.gif",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "accent-1",
         "mobile_content_alignment": "left",
@@ -192,6 +192,7 @@
     },
     "a46aa14a-f299-4378-bfcc-03ba7bb19da3": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16893937877309__a46aa14a-f299-4378-bfcc-03ba7bb19da3-166844814532025da8-0": {
           "type": "column",
@@ -259,15 +260,15 @@
         "template--16893937877309__1014c4a4-96f8-4c5d-b186-f9a07567666d-166844814516d7d79b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Will you keep taking risks?",
+            "heading": "Will you continue to be in more danger?",
             "heading_size": "h1"
           }
         },
         "template--16893937877309__1014c4a4-96f8-4c5d-b186-f9a07567666d-166844814516d7d79b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our repellent is a healthy choice.<br\/>It is based on physical principles, emitting different types of sounds that are not tolerated by the brains of mosquitoes and insects. And for that reason they will always stay away!<\/p>",
-            "text_style": "body"
+            "text": "<p><strong>Our repellent is a healthy choice.<\/strong><\/p><p><strong><br\/>Based on physical principles, it emits different types of sound waves that are not tolerated by the brain of these insects. Always keeping them away without having to use chemicals.<\/strong><\/p><p><strong><br\/>It does not produce noise, it is not a medicine, it is a very resistant and safe product.<\/strong><\/p>",
+            "text_style": "subtitle"
           }
         }
       },
@@ -281,7 +282,7 @@
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
@@ -302,8 +303,8 @@
         "template--16893937877309__152ae0e6-1847-4d9f-8f01-3314ebdaea5c-166844814516d7d79b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Of course yes! Even for pregnant women.<br\/>You can use it when touring, camping, fishing, mountaineering or even sleeping.<br\/>It is a product that guarantees to be safe, and that the generated intelligent waves only influence these insects.<\/p>",
-            "text_style": "body"
+            "text": "<p><strong>Of course yes! You can use it while touring, camping, fishing, hiking in the mountains or even when you are sleeping. It is a product that guarantees to be safe and these generated sound waves only influence insects.<\/strong><\/p>",
+            "text_style": "subtitle"
           }
         }
       },
@@ -315,9 +316,9 @@
         "image": "shopify:\/\/shop_images\/Stereo_surround_1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
@@ -331,7 +332,7 @@
         "template--16893937877309__1d266041-0298-4e92-9909-4782ac26b8d2-166844817131adc03a-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>No more waiting to protect your pets. Buy your Smart Repellent now!<\/p>",
+            "heading": "<p><strong>Don't wait any longer to protect your pets. Buy our Smart Repellent now!<\/strong><\/p>",
             "heading_size": "h2"
           }
         }
