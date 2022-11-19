@@ -406,6 +406,77 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "aab9a83a-757a-45d3-ab57-bd397b17c2c8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16893898457405__aab9a83a-757a-45d3-ab57-bd397b17c2c8-16688536243d9ea1a2-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Pregnant women can use?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, but we suggest you avoid it in the first few weeks because we didn't have the courage to prove it in practice, so we don't know the reactions it could cause or not.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16893898457405__aab9a83a-757a-45d3-ab57-bd397b17c2c8-16688536243d9ea1a2-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have a guarantee?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, after receiving the product, you have 7 days to return it justifying the reason. Through our email: info@ultrasafe.pet<\/p>",
+            "page": ""
+          }
+        },
+        "template--16893898457405__aab9a83a-757a-45d3-ab57-bd397b17c2c8-16688536243d9ea1a2-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "My product does not work properly, what do I do?",
+            "icon": "check_mark",
+            "row_content": "<p>You have 7 days after receiving the product to return it and justify the reason through our email: info@ultrasafe.pet<br\/>In this way, we will process the return and send you an email with instructions on how to do it. You will wait for the product to be collected and after we confirm receipt, you will receive your refund in approximately 15 days.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16893898457405__aab9a83a-757a-45d3-ab57-bd397b17c2c8-16688536243d9ea1a2-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is this product international?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, we are a Spanish virtual company, we ship the product and manage it through that same country. So for that reason, depending on your location, we may not be able to sell it or it may take longer to process a refund properly, and we apologize for that, we really want to do our best.<\/p>",
+            "page": ""
+          }
+        },
+        "2b79d474-f4a0-409f-b373-dfdc22b8ccd3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you guarantee product delivery?",
+            "icon": "check_mark",
+            "row_content": "<p>If after you place the order and pay for it, it means that everything is correct with your delivery address. If there is a problem with the delivery address and we are unable to deliver, unfortunately we will cancel the order and issue a refund within 15 working days. So please, check the information presented well and be attentive to the email so that we can keep you informed!<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16893898457405__aab9a83a-757a-45d3-ab57-bd397b17c2c8-16688536243d9ea1a2-0",
+        "template--16893898457405__aab9a83a-757a-45d3-ab57-bd397b17c2c8-16688536243d9ea1a2-1",
+        "template--16893898457405__aab9a83a-757a-45d3-ab57-bd397b17c2c8-16688536243d9ea1a2-2",
+        "template--16893898457405__aab9a83a-757a-45d3-ab57-bd397b17c2c8-16688536243d9ea1a2-3",
+        "2b79d474-f4a0-409f-b373-dfdc22b8ccd3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -419,6 +490,7 @@
     "1014c4a4-96f8-4c5d-b186-f9a07567666d",
     "152ae0e6-1847-4d9f-8f01-3314ebdaea5c",
     "1d266041-0298-4e92-9909-4782ac26b8d2",
-    "6146c614-f5bd-43d3-b5a3-10e6b828b94a"
+    "6146c614-f5bd-43d3-b5a3-10e6b828b94a",
+    "aab9a83a-757a-45d3-ab57-bd397b17c2c8"
   ]
 }
