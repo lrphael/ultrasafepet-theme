@@ -419,6 +419,71 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1ffa4a5b-9440-4051-990d-6450b5bfe023": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-0",
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-1",
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-2",
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-3",
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-4",
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-5",
+        "template--16893898457405__1ffa4a5b-9440-4051-990d-6450b5bfe023-166915000586461750-6"
+      ],
+      "settings": {
+        "product": "ultrasonic-pest-repeller",
+        "color_scheme": "background-1",
+        "secondary_background": true,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -432,6 +497,7 @@
     "1014c4a4-96f8-4c5d-b186-f9a07567666d",
     "152ae0e6-1847-4d9f-8f01-3314ebdaea5c",
     "1d266041-0298-4e92-9909-4782ac26b8d2",
-    "aab9a83a-757a-45d3-ab57-bd397b17c2c8"
+    "aab9a83a-757a-45d3-ab57-bd397b17c2c8",
+    "1ffa4a5b-9440-4051-990d-6450b5bfe023"
   ]
 }
