@@ -6,14 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "🐶 Your pet safe! 😺",
+            "heading": "🐶Seu PET seguro😺",
             "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Don't leave the protection of your pets for later. They are also part of your family!<\/p>",
+            "text": "<p>Não deixe a proteção dos seus pets para depois. Eles também são parte da sua familia!<\/p>",
             "text_style": "body"
           }
         }
@@ -28,7 +29,7 @@
         "desktop_image_width": "large",
         "layout": "text_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "inverse",
         "mobile_content_alignment": "left",
@@ -42,7 +43,7 @@
         "template--16893937877309__f4fe735c-fc24-4807-bc92-5b580402af78-1668378859e01eaac5-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Don't let your pets suffer anymore, don't let these invaders enter your home!<\/p>",
+            "heading": "<p>Não deixe a proteção dos seus pets para depois! Eles também são parte da sua familia!<\/p>",
             "heading_size": "h2"
           }
         }
@@ -65,14 +66,14 @@
         "template--16893937877309__40d1b049-bff4-4235-87b8-f857b51fa8d0-1668378759713281ff-0": {
           "type": "heading",
           "settings": {
-            "heading": "Your friend is in danger!",
+            "heading": "Seu amigo está em perigo!",
             "heading_size": "h1"
           }
         },
         "template--16893937877309__40d1b049-bff4-4235-87b8-f857b51fa8d0-1668378759713281ff-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Fleas, mosquitoes, ticks, among others, can really harm your pet's health and tranquility and yours. Causing itching (even causing wounds), loss of appetite and infections.<br\/><br\/>Fleas are extremely agile and proliferate quickly not only on your pet, but even leaving eggs on your clothes and carpets!<br\/><br\/>Ticks can cause many infections, they can even attack humans. And during their lifetime, they produce THOUSANDS of eggs.<br\/><br\/>Mosquitoes are transmitters of many diseases to your pets, mainly fatal diseases. For that reason, they are the main insects that we need to keep them away from our pets!<\/strong><\/p>",
+            "text": "<p>Pulgas, mosquitos, carrapatos, entre outros, podem prejudicar muito a saúde e tranquilidade do seu pet e a sua. Causando coceira (até mesmo feridas), perda de apetite e infecções.<br\/><br\/>Pulgas são extremamente ágeis e se proliferam rapidamente e não só no seu pet, até mesmo as roupas humanas podém manter seus ovos!<br\/><br\/>Carrapatos causam muitos tipos de infecções, e atacam até mesmo os humanos. Durante sua vida produzem MILHARES de ovos.<br\/><br\/>Mosquitos são transmissores de muitas doenças principalmente fatais. Por isso, são os principais insetos que precisamos para mantê-los longe de nossos pets!<\/p>",
             "text_style": "subtitle"
           }
         }
@@ -87,7 +88,7 @@
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
